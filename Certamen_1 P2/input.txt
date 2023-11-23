@@ -1,7 +1,0 @@
-capa(c1):(5,5)
-capa(c2):(5,5)
-capa(c3):(5,5)
-capa(c4):(5,5)
-capa(c5):(5,5)
-vecinos(1):(0,1)
-simulacion(10)
