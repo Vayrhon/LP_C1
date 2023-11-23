@@ -1,3 +1,0 @@
-capa(c0):(3,3)
-capa(c1):(3,3)
-simulacion(10,2)
