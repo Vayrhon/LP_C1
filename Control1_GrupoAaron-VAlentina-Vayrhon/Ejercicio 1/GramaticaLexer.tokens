@@ -1,0 +1,15 @@
+T__0=1
+T__1=2
+T__2=3
+MOVER=4
+ENCENDER=5
+APAGAR=6
+INT=7
+NEWLINE=8
+WS=9
+'('=1
+')'=2
+','=3
+'mover'=4
+'encender'=5
+'apagar'=6
